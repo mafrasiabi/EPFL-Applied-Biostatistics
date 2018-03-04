@@ -1,1 +1,1 @@
-# EPFL-Applied-Biostatistics
+# EPFL MATH 493 - Applied-Biostatistics
